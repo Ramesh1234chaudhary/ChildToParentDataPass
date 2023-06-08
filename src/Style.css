@@ -1,0 +1,11 @@
+.style{
+    width:200px;
+    height: 100px;
+    border: 1px solid black;
+    margin-left:300PX ;
+    margin-top: 50PX;
+}
+.child{
+    margin-left: 310px;
+    margin-top: 30px;
+}
