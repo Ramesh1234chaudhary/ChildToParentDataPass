@@ -1,13 +1,13 @@
 import React from 'react'
-import Parents from './Parents'
-
+import Contect from './Components/Contect'
 const App = () => {
   return (
     <div>
-      <Parents/>
-      
+      <Contect/>
     </div>
   )
 }
 
 export default App
+
+ 
